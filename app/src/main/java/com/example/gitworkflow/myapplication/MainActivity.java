@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //addition of user2
         //another addition of user2
+        //addition 3 of user2
     }
 }
