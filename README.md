@@ -1,2 +1,2 @@
 # workflowtest
-testing repository
+testing repository: learning workflow in git
