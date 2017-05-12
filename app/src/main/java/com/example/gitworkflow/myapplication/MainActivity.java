@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         //addition 3 of user2
         //addition 4 of user2
         //addition 5 of user2
+
+        //addition 6 of user2 on master
     }
 }
